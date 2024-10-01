@@ -1,0 +1,16 @@
+body {
+
+}
+
+#page {
+    box-sizing: border-box;
+    border: 1px solid red;
+    width: 1120px;
+    padding: 88 80 137px;
+    background-color: #F5F4F0;
+    margin: 88px auto;
+}
+
+img {
+    border-radius: 28px;
+}
