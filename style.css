@@ -9,8 +9,91 @@ body {
     padding: 88 80 137px;
     background-color: #F5F4F0;
     margin: 88px auto;
+    font-family: "Open Sans";
 }
 
 img {
     border-radius: 28px;
+}
+
+h1 {
+    color:#1B1B1B;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h2 {
+     color:#1B1B1B;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h3 {
+    color: #1B1B1B;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+p {
+    color: #333;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+.descrição {
+    height: 37px;
+    align-self: stretch;
+    color: #333;
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.descrição.especial {
+    align-self: stretch;
+    color: #333;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.subtítulo {
+    align-self: stretch;
+    color: #E1624F;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+hr {
+    width: 1120px;
+    height: 1px;
+    background-color: #D9D9D9;
+}
+
+.História {
+    color: #0C51A7;
+}
+.Casais {
+    color:  #591B98;
+}
+.Família {
+    color:  #E5245E;
+}
+.Orçamento {
+    color:  #E95E10;
 }
