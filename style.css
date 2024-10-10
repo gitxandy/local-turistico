@@ -19,7 +19,6 @@ img {
     border-radius: 28px;
 }
 
-
 h1 {   
     font-size: 36px;
     font-weight: 700;
@@ -29,6 +28,7 @@ h1 {
 h2 {
     font-size: 32px;
     font-weight: 700;
+    margin-top: 20px;
     margin-bottom: 8px;
 }
 
@@ -54,7 +54,6 @@ p {
 
 .descrição {
     height: 37px;
-    align-self: stretch;
     color: #333;
     text-align: center;
     font-size: 16px;
@@ -65,8 +64,6 @@ p {
 }
 
 .descrição-final {
-    height: 66px;
-    align-self: stretch;
     color: #333;
     text-align: center;
     font-size: 16px;
@@ -74,12 +71,11 @@ p {
 }
 
 .subtítulo {
-    align-self: stretch;
     color: #E1624F;
     font-size: 16px;
     font-weight: 700;
     text-transform: uppercase;
-    margin-bottom: 8pxpx;
+    margin-bottom: 8px;
 }
 
 .divisor-um {
@@ -97,6 +93,7 @@ p {
 
 .História {
     color: #0C51A7;
+    margin-bottom: 48px;
 }
 .Casais {
     color:  #591B98;
@@ -107,4 +104,18 @@ p {
 .Orçamento {
     color:  #E95E10;
     margin-bottom: 40px;
+}
+
+footer {
+    color: #333;
+    font-family: Alice;
+    font-size: 16px;
+    padding-bottom: 48px;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+}
+footer img {
+    margin: 0 4px;
 }
